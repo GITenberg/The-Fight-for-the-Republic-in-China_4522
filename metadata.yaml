@@ -1,0 +1,28 @@
+_repo: The-Fight-for-the-Republic-in-China_4522
+creator:
+  author:
+    agent_name: Putnam Weale, B. L. (Bertram Lenox)
+    aliases:
+    - Simpson, Bertram Lenox
+    - Weale, B. L. Putnam (Bertram Lenox Putnam)
+    - Weale, Bertram Lenox Putnam
+    birthdate: 1877
+    deathdate: 1930
+    gutenberg_agent_id: '5484'
+    url: http://www.gutenberg.org/2009/agents/5484
+    wikipedia: http://en.wikipedia.org/wiki/Bertram_Lenox_Simpson
+description: ''
+gutenberg_issued: '2003-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4522'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'China -- Politics and government'
+- !lcsh 'China -- History -- Republic, 1912-1949'
+- !lcc 'DS'
+title: The Fight for the Republic in China
+url: http://www.gutenberg.org/ebooks/4522
