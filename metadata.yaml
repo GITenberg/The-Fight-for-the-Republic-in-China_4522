@@ -1,5 +1,5 @@
 _repo: The-Fight-for-the-Republic-in-China_4522
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -30,5 +30,6 @@ subjects:
 - !lcsh 'China -- Politics and government'
 - !lcsh 'China -- History -- Republic, 1912-1949'
 - !lcc 'DS'
+- GITenberg
 title: The Fight for the Republic in China
 url: http://www.gutenberg.org/ebooks/4522
